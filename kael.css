@@ -1,0 +1,27 @@
+$color: #414141;
+$dur: 6s;
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+
+html,
+body {
+  font-family: "Caveat";
+  font-weight: 700;
+  background: #fee6ad;
+}
+h1 {
+  font-size: 4em;
+  margin: 0.25em auto 0.25em;
+}
+h2 {
+  font-size: 3em;
+  margin: auto auto 0.5em;
+}
+h1,
+h2 {
+  text-align: center;
+}
+div {
+  align-items: center;
+}
+.main {
